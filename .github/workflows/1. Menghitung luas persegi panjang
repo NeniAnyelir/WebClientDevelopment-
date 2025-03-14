@@ -1,0 +1,5 @@
+// 1. Menghitung luas persegi panjang
+function areaRectangle(length: number, width: number): number {
+    return length * width;
+}
+console.log(areaOfRectangle(5, 3)); // Output: 15
