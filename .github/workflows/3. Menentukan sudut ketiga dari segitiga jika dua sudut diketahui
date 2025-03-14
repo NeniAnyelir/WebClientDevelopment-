@@ -1,4 +1,4 @@
-3. Menentukan sudut ketiga dari segitiga jika dua sudut diketahui
+// 3. Menentukan sudut ketiga dari segitiga jika dua sudut diketahui
 function thirdAngle(a: number, b: number): number {
     return 180 - (a + b);
 }
