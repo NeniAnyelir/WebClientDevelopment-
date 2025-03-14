@@ -5,3 +5,4 @@ function circleCalculations(radius: number) {
     const area = Math.PI * radius * radius;
     console.log(`Diameter: ${diameter}, Circumference: ${circumference.toFixed(4)}, Area: ${area.toFixed(4)}`);
 }
+circleCalculations(5);
